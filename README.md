@@ -6,6 +6,14 @@ We'll be continually adding new introductory docs to this repo, so check back so
 ## Getting Started
 If you're new to the Hypercore Protocol, we recommend you install [Hyperspace](https://github.com/hypercore-protocol/hyperspace), which is a server that handles a bunch of the nitty-gritty of P2P networking for you.
 
+## Main Modules
+* [Hypercore](https://github.com/hypercore-protocol/hypercore): A secure, distributed append-only log. The foundational module in our ecosystem.
+* [Hypercore Protocol](https://github.com/hypercore-protocol/hypercore-protocol): The wire protocol for transferring Hypercores between peers.
+* [Hyperswarm](https://github.com/hypercore-protocol/hyperswarm): A DHT with distributed hole-punching, designed for discovering and sharing Hypercores.
+* [Hyperspace](https://github.com/hypercore-protocol/hyperspace): A "batteries-included" server and CLI for managing Hypercores.
+* [Hyperdrive](https://github.com/hypercore-protocol/hyperdrive): A P2P filesystem that supports syncing files on-demand.
+* [Hyperbee](https://github.com/mafintosh/hyperbee): An append-only B-Tree implementation built on Hypercore.
+
 ## Workshops
 
 ### [Intro to P2P Indexing and Search]()
