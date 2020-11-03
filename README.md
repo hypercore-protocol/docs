@@ -16,7 +16,7 @@ Our workshop for [NodeConf Remote 2020](https://www.nodeconfremote.com/) has a b
 [@urbien](https://github.com/urbien), [@pgmemk](https://github.com/pgmemk) and the folks at [Tradle](https://github.com/tradle) have put together a great general FAQ. It's super thorough, so definitely check that out if you have questions.
 
 ## Chat with us
-Come say hello and ask us questions in our [Discord](chat.hypercore-protocol.org).
+Come say hello and ask us questions in our [Discord](https://chat.hypercore-protocol.org).
 
 ## APIs
 For more detailed info about APIs, and specific usage examples, it's best to jump directly to the GitHub repos for the various modules in this org.
