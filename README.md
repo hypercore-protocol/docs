@@ -16,7 +16,7 @@ If you're new to the Hypercore Protocol, we recommend you install [Hyperspace](h
 
 ## Workshops
 
-### [Intro to P2P Indexing and Search]()
+### [Intro to P2P Indexing and Search](https://github.com/hypercore-protocol/p2p-indexing-and-search)
 Our workshop for [NodeConf Remote 2020](https://www.nodeconfremote.com/) has a bunch of exercises, starting at square one, that guide you through setting up Hyperspace, designing data structures on Hypercore, and eventually building and querying a large P2P database of IMDB data (metadata about movies and TV shows). 
 
 ## FAQs
