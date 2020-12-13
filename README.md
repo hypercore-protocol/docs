@@ -28,3 +28,5 @@ Come say hello and ask us questions in our [Discord](https://chat.hypercore-prot
 
 ## APIs
 For more detailed info about APIs, and specific usage examples, it's best to jump directly to the GitHub repos for the various modules in this org.
+
+You can could also use the [Hyper SDK](https://github.com/datproject/sdk#readme) which puts the main modules together and works out of the box in Node and the web.
